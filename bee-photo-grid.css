@@ -1,0 +1,76 @@
+.container {
+    display: flex;
+    /* margin: 10px; */
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+/* .image_box {
+    margin: 1.66%;
+} */
+
+.image_box2 {
+    flex: 1.3333;
+    margin: 10px;
+}
+
+.image_box3 {
+    flex: 0.6665;
+    margin: 10px;
+}
+
+.image_box5 {
+    flex: 0.6665;
+    margin: 10px;
+}
+
+.image_box6,
+.image_box7,
+.image_box4,
+.image_box1 {
+    flex: 1.5004;
+    margin: 10px;
+}
+
+.image_box8 {
+    flex: 1.000;
+    margin: 10px;
+}
+
+.image_box9 {
+    flex: 1.4953;
+    margin: 10px;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    margin-left: 10px;
+}
+
+img {
+    filter: grayscale(25%);
+}
+
+
+/* #1 img {
+
+#2 img,
+#3 img {
+    flex: 1.3344;
+} */
+
+
+/* <div id="1"><img src="IMG_1010.JPG"></div>
+<div id="2"><img src="IMG_1023.JPG"></div>
+<div id="3"><img src="IMG_1029.JPG"></div>
+<div id="4"><img src="IMG_1030.JPG"></div>
+<div id="5"><img src="IMG_1031.JPG"></div>
+<div id="6"><img src="IMG_1033.JPG"></div>
+<div id="7"><img src="IMG_1034.JPG"></div>
+<div id="8"><img src="IMG_1055.JPG"></div>
+<div id="9"><img src="IMG_1127.JPG"></div> */
